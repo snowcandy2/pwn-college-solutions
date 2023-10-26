@@ -1,0 +1,4 @@
+movb 0x404000, %al
+movw 0x404000, %bx
+movl 0x404000, %ecx
+movq 0x404000, %rdx
